@@ -61,7 +61,7 @@ print('Part 1:', ans)
 ### Part 2
 
 Same thing as part 1, but we need to search for *three* numbers that sum up to
-`2020` now.
+`2020` now. 
 
 This complicates things a little bit. We can no longer find an answer in linear
 time, but we surely can avoid cubic time and find it in quadratic time. We can
@@ -3236,7 +3236,7 @@ Day 16 - Ticket Translation
 ### Part 1
 
 Yet another input validation puzzle. This time we're going to validate some
-very detailed plane tickets.
+very detailed train tickets.
 
 Each ticket is composed of 20 fields, and each kind of field has some validity
 requirements. The input we get is split in 3 parts, separated by empty lines:
